@@ -4,7 +4,7 @@ title Valheim Sync & Play
 :: ==========================================
 :: SETTINGS
 :: ==========================================
-set "WorldName=YOUR_WORLD_NAME"
+set "WorldName=12345ksnsad"
 set "WorldFolder=%USERPROFILE%\AppData\LocalLow\IronGate\Valheim\worlds_local"
 set "GameExe=D:\Games\007\Valheim\Valheim\valheim.exe" 
 :: ==========================================
