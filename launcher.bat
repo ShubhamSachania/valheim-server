@@ -41,5 +41,3 @@ git commit -m "Auto-save world: %WorldName%"
 git push origin main
 
 echo Done! Everything is synced.
-
-pause
