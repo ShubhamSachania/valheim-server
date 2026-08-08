@@ -6,7 +6,7 @@ title Valheim Sync & Play
 :: ==========================================
 set "WorldName=12345ksnsad"
 set "WorldFolder=%USERPROFILE%\AppData\LocalLow\IronGate\Valheim\worlds_local"
-set "GameExe=D:\Games\007\Valheim\Valheim\valheim.exe" 
+set "GameExe=..\valheim.exe" 
 :: ==========================================
 
 :: Lock the Git folder path to exactly where this .bat file is located
@@ -41,3 +41,5 @@ git commit -m "Auto-save world: %WorldName%"
 git push origin main
 
 echo Done! Everything is synced.
+
+pause
