@@ -6,7 +6,7 @@ title Valheim Sync & Play
 :: ==========================================
 set "WorldName=YOUR_WORLD_NAME"
 set "WorldFolder=%USERPROFILE%\AppData\LocalLow\IronGate\Valheim\worlds_local"
-set "GameExe=C:\Games\Valheim\valheim.exe" 
+set "GameExe=D:\Games\007\Valheim\Valheim\valheim.exe" 
 :: ==========================================
 
 :: Lock the Git folder path to exactly where this .bat file is located
